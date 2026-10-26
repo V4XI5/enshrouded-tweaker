@@ -12,14 +12,14 @@ Made for game patch 1.0.0.3 (build 1273043). On other builds the edits are worke
 
 - **Physics debris.** Rubble from mining, destruction and explosions stays where it falls. You can also push it around.
 - **Reactive particles:**
-  - smoke, dust, embers and flames part around you;
+  - smoke, dust, embers etc moves you touch it;
   - smoke collides with walls and ceilings and slides along them;
-  - optional volumetric smoke.
-- **Longer-lived effects.** Smoke lasts up to 18× longer, and dust and sparks up to 8×. Effects draw up to 4× farther.
+  - optional: add volumetric smoke to every single smoke particle to the game.
+- **Longer-lived effects.** Smoke lasts from 1x to 18× longer, and dust and sparks up to 8×. Effects draw up to 4× farther.
 - **Fog and atmosphere:**
-  - fog density, rain and snow haze, and fog glow at night and by day, all tunable while you play;
+  - fog density, rain and snow haze, and fog glow at night and by day, all tunable.
   - thicker or thinner Shroud.
-- **Bigger waves.** Swimming, wading and rolling through water make taller, longer waves. A patched wave simulation lets waves last longer and travel further.
+- **Bigger waves.** Swimming, moving and swimming through water make taller, longer waves. Waves last longer and travel further.
 - **All lights cast shadows.** 444 more light sources cast shadows, among them spells, glowing plants and crafting stations.
 - **Global illumination beyond Ultra.** Ultra+ and Ultra++ presets with up to 7.8× the ray budget, set while the game runs.
 - **In-game overlay.** Ctrl+Shift+F10 shows the settings window over the game, in windowed or borderless mode.
@@ -36,16 +36,22 @@ Made for game patch 1.0.0.3 (build 1273043). On other builds the edits are worke
    `...\steamapps\common\Enshrouded\_debris_mod`.
    The tools find the game in the folder above their own.
 2. Close the game. Run `graphics.bat`, pick your settings, then click **Apply to game files**.
-3. Optional, but it keeps the mods through game updates: set this as Enshrouded's launch option in Steam (Properties > General > Launch options):
+3. Optional, when the game updates from a patch, set this as Enshrouded's launch option in Steam (Properties > General > Launch options):
 
    ```
    "C:\...\steamapps\common\Enshrouded\_debris_mod\autopatch.bat" %command%
    ```
 
    It checks the game files before every launch and rebuilds the mods when needed.
+   Then remove again when the mod is up and running again.A
+4: Play.
+
+
+
+
+---------ADVANCED USERS--------- Commands below are not needed for the average user/player:
 
 ## Command line
-
 ```
 python -I tools\autopatch.py apply [options]   build and install the mods (options are remembered)
 python -I tools\autopatch.py set [options]     save options for the next launch
