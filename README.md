@@ -43,7 +43,9 @@ Made for game patch 1.0.0.3 (build 1273043). On other builds the edits are worke
    ```
 
    It checks the game files before every launch and rebuilds the mods when needed.
-   Then remove again when the mod is up and running again.A
+   Then remove again when the mod is up and running again.
+
+   
 4: Play.
 
 
