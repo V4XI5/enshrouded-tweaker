@@ -32,9 +32,9 @@ Made for game patch 1.0.0.3 (build 1273043). On other builds the edits are worke
 
 ## Install
 
-1. Put this folder in the Enshrouded install folder and name it `_debris_mod`:
+1. Download the zip from [Releases](https://github.com/V4XI5/enshrouded-tweaker/releases/latest) and extract it into the Enshrouded install folder. It contains a `_debris_mod` folder, which must end up at
    `...\steamapps\common\Enshrouded\_debris_mod`.
-   The tools find the game in the folder above their own.
+   To find the install folder, right-click Enshrouded in Steam, then choose Manage > Browse local files.
 2. Close the game. Run `graphics.bat`, pick your settings, then click **Apply to game files**.
 3. Optional, when the game updates from a patch, set this as Enshrouded's launch option in Steam (Properties > General > Launch options):
 
