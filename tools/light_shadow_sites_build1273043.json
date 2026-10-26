@@ -1,0 +1,3110 @@
+[
+{
+"kind": "static_eval_param",
+"stream_off": 471334234,
+"old": 0,
+"new": 1,
+"label": "vfx bafab4d3-3c4f-4177-b945-701f87766dcb p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467432120,
+"old": 0,
+"new": 1,
+"label": "vfx 8617bf03-e195-445e-9409-c89ff6a8a5f9 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467432656,
+"old": 0,
+"new": 1,
+"label": "vfx 8617bf03-e195-445e-9409-c89ff6a8a5f9 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475219040,
+"old": 0,
+"new": 1,
+"label": "vfx ef12b169-a73f-4469-8384-829193b68249 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467838938,
+"old": 0,
+"new": 1,
+"label": "vfx 896d7949-135d-46b0-8cb2-10bd46958aa8 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470603304,
+"old": 0,
+"new": 1,
+"label": "vfx aef10c4f-6ecb-4837-aa8d-38e866ac5de8 p12 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473664266,
+"old": 0,
+"new": 1,
+"label": "vfx da1fcf96-d5b9-446a-ae1c-ad6f756a4e67 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470538645,
+"old": 0,
+"new": 1,
+"label": "vfx ae3ec4fb-a3fb-4e97-97be-459e1d7f51ed p46 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472860622,
+"old": 0,
+"new": 1,
+"label": "vfx cee7326e-951b-43df-8bdb-719c2f374b45 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472649594,
+"old": 0,
+"new": 1,
+"label": "vfx cd098f63-f69b-4398-a4cf-fa24271928ef p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462238944,
+"old": 0,
+"new": 1,
+"label": "vfx 3e6577db-f3f8-4189-b863-82e0904287ba p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461185666,
+"old": 0,
+"new": 1,
+"label": "vfx 2ea91219-1af3-4be0-a8ed-4a52a79bf7be p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466567216,
+"old": 0,
+"new": 1,
+"label": "vfx 7a4234ce-c554-4881-9f27-233fa068c34b p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460740230,
+"old": 0,
+"new": 1,
+"label": "vfx 28be5ca7-08de-4f26-a27a-fdbac089d3a1 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458750406,
+"old": 0,
+"new": 1,
+"label": "vfx 0e0e889b-348a-4cd6-a9d6-523e50512b00 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458760918,
+"old": 0,
+"new": 1,
+"label": "vfx 0e0e889b-348a-4cd6-a9d6-523e50512b00 p31 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460149038,
+"old": 0,
+"new": 1,
+"label": "vfx 21062072-298d-4249-985d-9f18753d9584 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475769288,
+"old": 0,
+"new": 1,
+"label": "vfx f7d49f10-2f7b-4544-9b5a-684c8ede7f1f p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473308474,
+"old": 0,
+"new": 1,
+"label": "vfx d623ff26-2327-4ea3-a085-350ad749101c p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458075212,
+"old": 0,
+"new": 1,
+"label": "vfx 06e93ead-8ddc-417f-8b2d-85f893ab4a93 p21 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467743158,
+"old": 0,
+"new": 1,
+"label": "vfx 884e7fd8-cb9a-46cd-9dd9-f451952c4678 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475300994,
+"old": 0,
+"new": 1,
+"label": "vfx f0aca2d9-07cd-4708-968a-2b863c8d4b44 p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463416681,
+"old": 0,
+"new": 1,
+"label": "vfx 4c03a10f-0ffa-44b9-9d82-e4ad32ffa86f p14 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474987139,
+"old": 0,
+"new": 1,
+"label": "vfx eb333c90-39fc-46d2-98c7-75da15900249 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474990207,
+"old": 0,
+"new": 1,
+"label": "vfx eb333c90-39fc-46d2-98c7-75da15900249 p12 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474991655,
+"old": 0,
+"new": 1,
+"label": "vfx eb333c90-39fc-46d2-98c7-75da15900249 p16 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474787102,
+"old": 0,
+"new": 1,
+"label": "vfx e80fdc1a-e38c-49e7-b72c-b9efec12c867 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471353982,
+"old": 0,
+"new": 1,
+"label": "vfx bb49426e-d376-4238-aa9a-9d032db624f7 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473987280,
+"old": 0,
+"new": 1,
+"label": "vfx ddf2d616-ca20-4829-83e6-cb1026bbb17c p15 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457870910,
+"old": 0,
+"new": 1,
+"label": "vfx 05a66c81-dda1-49fa-8db7-6cbfe40b16f3 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471133448,
+"old": 0,
+"new": 1,
+"label": "vfx b71482ba-8573-472e-a6e8-5985acfa60da p17 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460590334,
+"old": 0,
+"new": 1,
+"label": "vfx 26539e0d-653c-42f1-984c-c9c4d7622cf5 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460590734,
+"old": 0,
+"new": 1,
+"label": "vfx 26539e0d-653c-42f1-984c-c9c4d7622cf5 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471671776,
+"old": 0,
+"new": 1,
+"label": "vfx bfdecda5-ea16-4aaf-a651-0456fb15ff69 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458216848,
+"old": 0,
+"new": 1,
+"label": "vfx 07fbf973-3396-4fea-b53c-e16ed9f1ede3 p18 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 476394523,
+"old": 0,
+"new": 1,
+"label": "vfx ff667305-bcfd-4013-96a4-bbf08d7fd445 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459370070,
+"old": 0,
+"new": 1,
+"label": "vfx 17df8f18-3566-4d46-b896-ca38040b8c02 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458042016,
+"old": 0,
+"new": 1,
+"label": "vfx 069e4bf9-3cc4-41e8-a503-44bda661fa2a p10 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460351182,
+"old": 0,
+"new": 1,
+"label": "vfx 22b892ce-2570-4654-923d-919aaaf0e597 p11 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471382298,
+"old": 0,
+"new": 1,
+"label": "vfx bb4a32da-dc80-47a4-9bd0-8f755943e103 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466993518,
+"old": 0,
+"new": 1,
+"label": "vfx 80da5e67-ccb2-406c-aace-8f64a99d858f p12 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466995362,
+"old": 0,
+"new": 1,
+"label": "vfx 80da5e67-ccb2-406c-aace-8f64a99d858f p16 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457521554,
+"old": 0,
+"new": 1,
+"label": "vfx 01c95d81-ca69-4acb-8f20-0b42ea3f6bbd p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462241616,
+"old": 0,
+"new": 1,
+"label": "vfx 3e7bb9fc-8077-478c-bf2c-5c49f58b34f9 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475733960,
+"old": 0,
+"new": 1,
+"label": "vfx f793385c-841c-48b3-8c7d-84b97a2b0aa7 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475188430,
+"old": 0,
+"new": 1,
+"label": "vfx eecf9891-6c57-496d-bf5f-c7cd30699fcc p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466687050,
+"old": 0,
+"new": 1,
+"label": "vfx 7b3bd042-ffe5-47ac-87e6-2c7f045e46ad p10 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470586014,
+"old": 0,
+"new": 1,
+"label": "vfx aee947bf-30bd-410f-b1b8-b893de522170 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472603318,
+"old": 0,
+"new": 1,
+"label": "vfx cc619ea2-14b0-4951-9788-edb4f32721a3 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457798258,
+"old": 0,
+"new": 1,
+"label": "vfx 05402778-9a19-4383-be31-5244d4ee3b37 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465409174,
+"old": 0,
+"new": 1,
+"label": "vfx 6757042c-a4c5-46f7-a8ec-d4c30716f6b5 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475147264,
+"old": 0,
+"new": 1,
+"label": "vfx eddc1182-fb6c-4668-b33c-f10cb8894a9d p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461942570,
+"old": 0,
+"new": 1,
+"label": "vfx 3989f5e1-60ba-4c4e-a583-c4aeeaa90cbd p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462666214,
+"old": 0,
+"new": 1,
+"label": "vfx 422765d9-e204-4d00-8fc5-e33695d253e9 p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459495348,
+"old": 0,
+"new": 1,
+"label": "vfx 19d3f35a-902c-435c-811a-736b87506fd1 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458115990,
+"old": 0,
+"new": 1,
+"label": "vfx 0717d2bc-4573-472e-952f-69a0b76234df p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472887598,
+"old": 0,
+"new": 1,
+"label": "vfx cf28124b-4f12-4d43-8e18-dba6f5de6fcb p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459919525,
+"old": 0,
+"new": 1,
+"label": "vfx 1d6be388-b298-4495-90da-4ebe4ec8ee24 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465269402,
+"old": 0,
+"new": 1,
+"label": "vfx 6550468e-c73f-48a1-a9a6-b3ae1e6eafb1 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466410394,
+"old": 0,
+"new": 1,
+"label": "vfx 78906848-8e30-4996-aa6d-4c2f4c80bb80 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474254335,
+"old": 0,
+"new": 1,
+"label": "vfx e1aa2cc7-b272-4534-8e14-6851c3378c19 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462790052,
+"old": 0,
+"new": 1,
+"label": "vfx 42d02fb5-a044-49f6-99d9-2e1e23cc2c06 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467694154,
+"old": 0,
+"new": 1,
+"label": "vfx 87c8d367-7684-4d8e-9a78-a25a59cc269e p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467698650,
+"old": 0,
+"new": 1,
+"label": "vfx 87c8d367-7684-4d8e-9a78-a25a59cc269e p14 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459319608,
+"old": 0,
+"new": 1,
+"label": "vfx 170b902c-e4bf-4820-896c-78683a612efe p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465742727,
+"old": 0,
+"new": 1,
+"label": "vfx 6c61fe84-08b5-4f5c-a98a-768f14324752 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474375766,
+"old": 0,
+"new": 1,
+"label": "vfx e3a5dbf4-3c85-411f-a002-0cfc7155b7bd p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458179634,
+"old": 0,
+"new": 1,
+"label": "vfx 07c69943-8fa4-47d6-bfb3-a0ce15365b99 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470075216,
+"old": 0,
+"new": 1,
+"label": "vfx a8bb7ea8-a5b5-498e-8153-51c0c543ce90 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464245322,
+"old": 0,
+"new": 1,
+"label": "vfx 572f4de7-9a16-44aa-b07c-57716eb1af8a p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474645680,
+"old": 0,
+"new": 1,
+"label": "vfx e6127de8-014e-4037-aedd-c115839c8f65 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469617890,
+"old": 0,
+"new": 1,
+"label": "vfx a395c54d-8aee-4cbe-b477-22b0e23145c5 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461647196,
+"old": 0,
+"new": 1,
+"label": "vfx 3430596a-a2d5-444c-b971-ed1e0174e590 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466824595,
+"old": 0,
+"new": 1,
+"label": "vfx 7d13f174-e4e1-49c3-a05a-6ca05fbe4f27 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466804829,
+"old": 0,
+"new": 1,
+"label": "vfx 7c5bc82b-e7a9-4f7f-8bbd-846e7334e5c5 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461469150,
+"old": 0,
+"new": 1,
+"label": "vfx 32814692-4d0f-42a9-ab2c-37bcb14c170d p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458690486,
+"old": 0,
+"new": 1,
+"label": "vfx 0d3b17ee-913d-4bcd-812b-1683a31d3f3b p12 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472955698,
+"old": 0,
+"new": 1,
+"label": "vfx d0316cdf-d9f6-46dd-badf-4d3a787a2607 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467555274,
+"old": 0,
+"new": 1,
+"label": "vfx 869393b4-926c-4841-a8ab-bddac3e05636 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458915027,
+"old": 0,
+"new": 1,
+"label": "vfx 105cb96f-09b7-4838-a902-f2883950f8fe p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473749781,
+"old": 0,
+"new": 1,
+"label": "vfx da964b21-9d8a-4fa0-8ad8-455c605655d0 p11 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460533920,
+"old": 0,
+"new": 1,
+"label": "vfx 25bcc091-2e82-4143-bf48-8ac4acef9613 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471747520,
+"old": 0,
+"new": 1,
+"label": "vfx c16b8ebf-011b-478e-9377-f35f59483f62 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464532406,
+"old": 0,
+"new": 1,
+"label": "vfx 5a92ce13-79fa-4bc4-8cac-70548991e44f p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461599776,
+"old": 0,
+"new": 1,
+"label": "vfx 3387ff24-9e11-47fa-b246-b66b80dc6736 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461610212,
+"old": 0,
+"new": 1,
+"label": "vfx 3387ff24-9e11-47fa-b246-b66b80dc6736 p23 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473502771,
+"old": 0,
+"new": 1,
+"label": "vfx d8c5a37d-c957-4638-aace-1032d08fd334 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459563059,
+"old": 0,
+"new": 1,
+"label": "vfx 1a455fc6-687a-4a0a-8611-e6511c6118b0 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459608572,
+"old": 0,
+"new": 1,
+"label": "vfx 1a7a69cc-b5ef-4895-a829-477fc339b4ef p14 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467224874,
+"old": 0,
+"new": 1,
+"label": "vfx 84050b88-27b2-4079-88c1-7fb301a9c7ad p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 476294012,
+"old": 0,
+"new": 1,
+"label": "vfx fe45bcc2-20eb-4f65-8fa3-1bbd9fadfbe2 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461535266,
+"old": 0,
+"new": 1,
+"label": "vfx 334d5410-faa3-4152-927b-98a64c2c992f p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461543182,
+"old": 0,
+"new": 1,
+"label": "vfx 334d5410-faa3-4152-927b-98a64c2c992f p20 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469167088,
+"old": 0,
+"new": 1,
+"label": "vfx 9e2969e5-c96b-4897-9694-5467b85094d9 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473633814,
+"old": 0,
+"new": 1,
+"label": "vfx d9c33732-0bf1-41b7-8a8e-3f4122222d51 p42 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470729200,
+"old": 0,
+"new": 1,
+"label": "vfx b098526a-ef77-47d1-8c6d-a42d64132a19 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457363852,
+"old": 0,
+"new": 1,
+"label": "vfx 00749d1d-529e-4ce1-acd5-d1fb4905f926 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465110390,
+"old": 0,
+"new": 1,
+"label": "vfx 632f48ea-037e-4d35-908d-284fd6f84f2d p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461181026,
+"old": 0,
+"new": 1,
+"label": "vfx 2e44daa4-8a7f-420d-a1d8-582a3cb99cbf p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470302268,
+"old": 0,
+"new": 1,
+"label": "vfx ab955afe-d877-4fef-8189-da31772a4fc2 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466604804,
+"old": 0,
+"new": 1,
+"label": "vfx 7aa398ab-d382-4169-a595-b73746973c9d p12 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475360302,
+"old": 0,
+"new": 1,
+"label": "vfx f1ae40cb-f6af-4678-bf33-9dc02e90232a p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469048288,
+"old": 0,
+"new": 1,
+"label": "vfx 9c872610-7e46-4ba2-9660-2ab6ae613a97 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469049612,
+"old": 0,
+"new": 1,
+"label": "vfx 9c872610-7e46-4ba2-9660-2ab6ae613a97 p10 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473733590,
+"old": 0,
+"new": 1,
+"label": "vfx da66f93c-17fd-42ec-9255-0796341bb3fa p11 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460413610,
+"old": 0,
+"new": 1,
+"label": "vfx 23f716e1-cc1f-4d75-a208-5348a117f641 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458853236,
+"old": 0,
+"new": 1,
+"label": "vfx 0f6d8df3-792e-4e87-bd9f-12df2e683df0 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461365240,
+"old": 0,
+"new": 1,
+"label": "vfx 31e42ce0-6d78-401a-af42-19582149f7a4 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460240850,
+"old": 0,
+"new": 1,
+"label": "vfx 21cc086f-a77b-4743-8454-8bf9f88350f3 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461980876,
+"old": 0,
+"new": 1,
+"label": "vfx 3a4f8ad1-c017-47ad-9af9-73f489b3179a p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461981532,
+"old": 0,
+"new": 1,
+"label": "vfx 3a4f8ad1-c017-47ad-9af9-73f489b3179a p12 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471421712,
+"old": 0,
+"new": 1,
+"label": "vfx bc1fc8a3-ae27-4625-8a9c-a19514190cc6 p11 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458514990,
+"old": 0,
+"new": 1,
+"label": "vfx 0b06e96f-7592-4de1-ab79-ce9e95d8cdd2 p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467113058,
+"old": 0,
+"new": 1,
+"label": "vfx 824dcfab-2c4a-4157-87ea-f8bd8186a3a3 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474411950,
+"old": 0,
+"new": 1,
+"label": "vfx e45ba338-bffb-4bd1-991a-5f2bd1dedaf8 p15 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462279531,
+"old": 0,
+"new": 1,
+"label": "vfx 3e8e9505-8cc6-4551-9638-d93596f80277 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461157952,
+"old": 0,
+"new": 1,
+"label": "vfx 2e2fd019-c011-4629-bf68-2c9c18be4720 p29 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466774436,
+"old": 0,
+"new": 1,
+"label": "vfx 7c37eb47-b345-4262-8e4b-0bc856fbdc65 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 468058676,
+"old": 0,
+"new": 1,
+"label": "vfx 8cc99c71-a8b6-436c-8508-12fcb2b30ca5 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462970101,
+"old": 0,
+"new": 1,
+"label": "vfx 468e8d51-3c2c-45fe-ab32-9d51ff846e39 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 468266490,
+"old": 0,
+"new": 1,
+"label": "vfx 8ec3287b-1cae-455e-93db-3de534dc9de6 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 468428307,
+"old": 0,
+"new": 1,
+"label": "vfx 923bb919-e473-4078-853f-f3203ebee194 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465101131,
+"old": 0,
+"new": 1,
+"label": "vfx 632c944c-2565-413f-a5aa-110ff21b6509 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467192447,
+"old": 0,
+"new": 1,
+"label": "vfx 83990c29-e7de-4980-aeb7-64d8333a2648 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473030738,
+"old": 0,
+"new": 1,
+"label": "vfx d1f65397-f76b-4c93-8d37-9d9398e74ec4 p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457396864,
+"old": 0,
+"new": 1,
+"label": "vfx 00ba63c1-9322-460d-a7b5-937f2fa52c5d p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464019618,
+"old": 0,
+"new": 1,
+"label": "vfx 547f0fc4-136d-47f0-8a75-1dce80cd0f62 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464020062,
+"old": 0,
+"new": 1,
+"label": "vfx 547f0fc4-136d-47f0-8a75-1dce80cd0f62 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464748740,
+"old": 0,
+"new": 1,
+"label": "vfx 5da10817-e6de-4e43-93bd-bbd2d56dd2ed p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471792675,
+"old": 0,
+"new": 1,
+"label": "vfx c1b9cc5d-88f1-4c2c-b8ef-3394ac618b84 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464627982,
+"old": 0,
+"new": 1,
+"label": "vfx 5bb6392d-5b92-4cfa-bbdb-9f14ea9268ee p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462122280,
+"old": 0,
+"new": 1,
+"label": "vfx 3bba47e4-8b5b-4607-a3e6-0399a3908d6c p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473884441,
+"old": 0,
+"new": 1,
+"label": "vfx dcb8e325-3b95-48ac-a1d7-595a85f26e43 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465887208,
+"old": 0,
+"new": 1,
+"label": "vfx 6e2b43a1-08b9-4178-871d-314f3f8914d7 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463532169,
+"old": 0,
+"new": 1,
+"label": "vfx 4d57e8f1-e110-4313-8569-e85f23256985 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465314704,
+"old": 0,
+"new": 1,
+"label": "vfx 65d48539-68c2-4086-9669-82c0a135ca8f p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 476102410,
+"old": 0,
+"new": 1,
+"label": "vfx fbda4b53-7a34-440d-8fa6-70bfccbc9d97 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461741524,
+"old": 0,
+"new": 1,
+"label": "vfx 3572ac84-96df-45de-bafb-170a8355cff4 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458613557,
+"old": 0,
+"new": 1,
+"label": "vfx 0c645111-0997-447a-9ce8-dd620ce010de p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460000076,
+"old": 0,
+"new": 1,
+"label": "vfx 1fb4e6bf-7242-4baa-b21e-6ec53aff2ff9 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469457500,
+"old": 0,
+"new": 1,
+"label": "vfx a1e40d60-8bcf-4586-b9d9-70a25fcfeb3f p13 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467803091,
+"old": 0,
+"new": 1,
+"label": "vfx 88cd96c3-4e15-48a9-adf6-07e1b911e2ac p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460682945,
+"old": 0,
+"new": 1,
+"label": "vfx 27a5b082-0895-42aa-8b62-d607d7047795 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475580162,
+"old": 0,
+"new": 1,
+"label": "vfx f50d6c1c-1e93-4bb8-bdb0-675596b5a66e p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461694781,
+"old": 0,
+"new": 1,
+"label": "vfx 3550055f-3f44-4a26-aa06-86a01d15d523 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 468984646,
+"old": 0,
+"new": 1,
+"label": "vfx 9bfdee34-164c-4e1e-9f45-72c1763ced49 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463462262,
+"old": 0,
+"new": 1,
+"label": "vfx 4c8bd782-1e8c-4114-b1d6-b5e34a756eb1 p15 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469949230,
+"old": 0,
+"new": 1,
+"label": "vfx a7b38dc7-f8c7-48bc-bfe4-63cd5eaba670 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460955290,
+"old": 0,
+"new": 1,
+"label": "vfx 2ae3f121-f255-418c-838d-5e04029c5fc0 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 476137970,
+"old": 0,
+"new": 1,
+"label": "vfx fc09f4cf-2b3f-4ef4-b257-1cd1cdd4239f p10 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 476144478,
+"old": 0,
+"new": 1,
+"label": "vfx fc09f4cf-2b3f-4ef4-b257-1cd1cdd4239f p25 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457382258,
+"old": 0,
+"new": 1,
+"label": "vfx 009e86f9-22b9-49a1-9cf5-cce6b5db41d5 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465647936,
+"old": 0,
+"new": 1,
+"label": "vfx 6b2f3c73-2b17-4a91-b66d-60c335f42ddd p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467349642,
+"old": 0,
+"new": 1,
+"label": "vfx 84fda1a1-d896-4b1d-9cd6-055a88fb14d2 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470616900,
+"old": 0,
+"new": 1,
+"label": "vfx af325548-4a26-4c63-935c-655a94ead8ab p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473051886,
+"old": 0,
+"new": 1,
+"label": "vfx d2b6c197-ada0-4786-ab68-006fc3340703 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471142828,
+"old": 0,
+"new": 1,
+"label": "vfx b77d099e-0e07-4fe4-8c45-510a885abcb3 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463348230,
+"old": 0,
+"new": 1,
+"label": "vfx 4b72b261-53da-4f67-8920-a79b781680aa p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458721184,
+"old": 0,
+"new": 1,
+"label": "vfx 0dcd856b-a208-4d0b-890c-852b8b48f397 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461457974,
+"old": 0,
+"new": 1,
+"label": "vfx 327862a7-fdf4-483d-8e1a-866e42c9fc82 p15 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459373856,
+"old": 0,
+"new": 1,
+"label": "vfx 180c48d5-4067-4542-9b23-54c0f0ca4bc6 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472622128,
+"old": 0,
+"new": 1,
+"label": "vfx ccadb268-bf51-49d5-bf24-93c74fae1bbc p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473779142,
+"old": 0,
+"new": 1,
+"label": "vfx db01f950-8946-4c5f-af90-5dae5a8cb418 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460773002,
+"old": 0,
+"new": 1,
+"label": "vfx 293d5e83-79a0-438d-a391-4e5b0a72ec78 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462342838,
+"old": 0,
+"new": 1,
+"label": "vfx 3f0ba98d-f5f7-4a87-84ae-e01ffe59e4c1 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460219848,
+"old": 0,
+"new": 1,
+"label": "vfx 219f1eaa-b65f-4028-b155-5ac787cb964b p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473366336,
+"old": 0,
+"new": 1,
+"label": "vfx d67647a5-3212-45f8-9db0-92624b356fc3 p22 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458025194,
+"old": 0,
+"new": 1,
+"label": "vfx 068b71f2-8a4c-4e58-ab0e-c8b6afb8799b p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462554210,
+"old": 0,
+"new": 1,
+"label": "vfx 40f604f3-55cd-4b92-993e-9dc580e8c4ae p13 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465685392,
+"old": 0,
+"new": 1,
+"label": "vfx 6c365036-d44f-4ac3-85da-551e26303dd8 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461681538,
+"old": 0,
+"new": 1,
+"label": "vfx 34c9f858-e358-4152-b16a-eec5ca88b415 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473758987,
+"old": 0,
+"new": 1,
+"label": "vfx da9e60e9-ea19-4be3-a8b0-f83efe3eaba5 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465833494,
+"old": 0,
+"new": 1,
+"label": "vfx 6de873d7-3d91-488d-b84c-4117a4faa912 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460015788,
+"old": 0,
+"new": 1,
+"label": "vfx 1fd54bff-7b2d-461a-9668-deebef05ba23 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462481188,
+"old": 0,
+"new": 1,
+"label": "vfx 406ffabe-8f77-4576-9c48-53dd2687d8e2 p15 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462481612,
+"old": 0,
+"new": 1,
+"label": "vfx 406ffabe-8f77-4576-9c48-53dd2687d8e2 p16 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461630346,
+"old": 0,
+"new": 1,
+"label": "vfx 33c1b026-4c86-4ef5-923d-353158bca60f p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470232603,
+"old": 0,
+"new": 1,
+"label": "vfx ab1a11af-5829-45de-9f04-1f7e31d3cecb p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461893234,
+"old": 0,
+"new": 1,
+"label": "vfx 3832e3e1-4e74-429b-b870-55951230f449 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470122946,
+"old": 0,
+"new": 1,
+"label": "vfx a9be3428-0093-4e85-b178-9e30861b0f2b p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469341746,
+"old": 0,
+"new": 1,
+"label": "vfx 9ffb4198-be93-4b35-94cb-40e21ea9ef1b p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464213100,
+"old": 0,
+"new": 1,
+"label": "vfx 56c2566a-d160-4933-a57b-994241fe19c6 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460452652,
+"old": 0,
+"new": 1,
+"label": "vfx 244c13ac-2859-49c9-9712-e5f2557989bf p17 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462505476,
+"old": 0,
+"new": 1,
+"label": "vfx 40ec3057-b209-4886-9231-824740fb8eb7 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462705610,
+"old": 0,
+"new": 1,
+"label": "vfx 423006e6-c3b6-4e42-bc2b-caa007a76e01 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 468869878,
+"old": 0,
+"new": 1,
+"label": "vfx 99fff257-1b15-4f18-b74c-33d6c3d2fde7 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475875812,
+"old": 0,
+"new": 1,
+"label": "vfx f8dd7137-146b-4b0a-a2cf-dce8a6d83f81 p11 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458238644,
+"old": 0,
+"new": 1,
+"label": "vfx 0825f2ae-8a7c-4041-ac4a-baa084b21de7 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461825000,
+"old": 0,
+"new": 1,
+"label": "vfx 36e8d30d-1c9c-420f-bdcf-3036bbe59482 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460331802,
+"old": 0,
+"new": 1,
+"label": "vfx 22b19dc9-3ef7-4a33-906f-8ea85fd6a2e6 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466177614,
+"old": 0,
+"new": 1,
+"label": "vfx 7350257a-4f05-460f-bda8-91c28be44281 p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473125900,
+"old": 0,
+"new": 1,
+"label": "vfx d4463f6a-26ea-47fa-bd57-e9c1f072829c p13 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461012878,
+"old": 0,
+"new": 1,
+"label": "vfx 2b9217e2-c47c-4fcb-bdd0-a8b5bae3c052 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464660376,
+"old": 0,
+"new": 1,
+"label": "vfx 5c1bf93e-0012-4dd5-b05b-2ca4ed627abf p18 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473474030,
+"old": 0,
+"new": 1,
+"label": "vfx d8b4e3d8-33d3-4be9-9561-fac4442f68e7 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473706285,
+"old": 0,
+"new": 1,
+"label": "vfx da58ccb7-8f10-4287-ab46-3d64fbcebde9 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473715041,
+"old": 0,
+"new": 1,
+"label": "vfx da58ccb7-8f10-4287-ab46-3d64fbcebde9 p20 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469475803,
+"old": 0,
+"new": 1,
+"label": "vfx a1e5adb7-9734-466c-a4be-c471135a93bc p13 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475830536,
+"old": 0,
+"new": 1,
+"label": "vfx f850bc76-0efb-4c80-a77e-da0fd5dffd60 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475831876,
+"old": 0,
+"new": 1,
+"label": "vfx f850bc76-0efb-4c80-a77e-da0fd5dffd60 p12 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467729866,
+"old": 0,
+"new": 1,
+"label": "vfx 882df9b6-b74d-4187-ad00-c5f1e2da4fa3 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461513739,
+"old": 0,
+"new": 1,
+"label": "vfx 33479d0d-aa30-40f9-975c-ca5b0ea8d732 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475268901,
+"old": 0,
+"new": 1,
+"label": "vfx f035d864-44ac-48a9-b81c-56030e087159 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458406786,
+"old": 0,
+"new": 1,
+"label": "vfx 0a1304f9-20a7-482c-b306-e17342938829 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459839368,
+"old": 0,
+"new": 1,
+"label": "vfx 1ccbd687-d045-4f31-8ffb-af7afd7236e6 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460967132,
+"old": 0,
+"new": 1,
+"label": "vfx 2aec9a2a-d0b8-45f5-a6d2-1e2558da45cc p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472536437,
+"old": 0,
+"new": 1,
+"label": "vfx cb28a576-91ec-4956-94e1-5466a644ea02 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462744944,
+"old": 0,
+"new": 1,
+"label": "vfx 42affb79-1a84-40f1-a797-08d7d19ab459 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471052488,
+"old": 0,
+"new": 1,
+"label": "vfx b66f4bba-8928-4960-b086-f67ca32cd7d3 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467938766,
+"old": 0,
+"new": 1,
+"label": "vfx 8afe3ced-772e-4468-96fb-2a366393495d p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462179948,
+"old": 0,
+"new": 1,
+"label": "vfx 3d103e75-3147-4938-9249-9d836eb07c4c p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469933764,
+"old": 0,
+"new": 1,
+"label": "vfx a79a95b9-4134-4fb1-926a-a6dccd9520e6 p18 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475523048,
+"old": 0,
+"new": 1,
+"label": "vfx f3a81f8b-9e08-4bff-b868-6e9bd94cde7b p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461788810,
+"old": 0,
+"new": 1,
+"label": "vfx 366c535d-65b2-410c-abb2-f4547597d830 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470454284,
+"old": 0,
+"new": 1,
+"label": "vfx ae1f2d11-685d-4bf8-b7c5-ea798980171c p18 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475749206,
+"old": 0,
+"new": 1,
+"label": "vfx f796719d-0d8b-44e1-95b8-89eb07448073 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460082942,
+"old": 0,
+"new": 1,
+"label": "vfx 205f46a8-02d8-4c71-bf07-722c60b7ec1f p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460205222,
+"old": 0,
+"new": 1,
+"label": "vfx 2189ddc7-6220-4ae0-9e22-a70daf473fa2 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469218486,
+"old": 0,
+"new": 1,
+"label": "vfx 9f15adae-53e8-4a7b-8037-d6a164b577bb p27 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461084116,
+"old": 0,
+"new": 1,
+"label": "vfx 2d41a206-a170-42a2-aa7f-08b810a47211 p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461811802,
+"old": 0,
+"new": 1,
+"label": "vfx 3696a777-4bbb-495a-a1b2-a30006ed49eb p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463052652,
+"old": 0,
+"new": 1,
+"label": "vfx 479160af-1589-4318-a546-7bb047079028 p11 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474443646,
+"old": 0,
+"new": 1,
+"label": "vfx e48e757e-82c3-486b-a2f0-6184c6cdfb00 p13 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465074345,
+"old": 0,
+"new": 1,
+"label": "vfx 627e078e-8d38-42d4-b0cc-779aac968967 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472197330,
+"old": 0,
+"new": 1,
+"label": "vfx c56bb712-a73d-460d-895e-1a14cffe9dcf p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463998632,
+"old": 0,
+"new": 1,
+"label": "vfx 54347d4a-6815-4ffc-a9f7-25f96ae6f41e p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459675446,
+"old": 0,
+"new": 1,
+"label": "vfx 1afc516b-fec2-449b-b844-e62b2b6a9004 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459025831,
+"old": 0,
+"new": 1,
+"label": "vfx 1206cd0b-de39-45e4-a10d-2eda266571d7 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474947348,
+"old": 0,
+"new": 1,
+"label": "vfx ea7e4293-4ab3-4031-b178-352ca76319ef p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467309044,
+"old": 0,
+"new": 1,
+"label": "vfx 849c7936-45c2-4bf3-b671-7cc40f3032b6 p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470149885,
+"old": 0,
+"new": 1,
+"label": "vfx aa497da8-6153-42af-bba6-045727b2702b p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464320192,
+"old": 0,
+"new": 1,
+"label": "vfx 585e557a-7e27-4e1b-91e6-702fb1140de2 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474681476,
+"old": 0,
+"new": 1,
+"label": "vfx e613f9d7-6d56-49b9-892f-a49ef3243132 p31 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466641862,
+"old": 0,
+"new": 1,
+"label": "vfx 7b06eb61-2301-4798-97b2-8ce83127afd1 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465752556,
+"old": 0,
+"new": 1,
+"label": "vfx 6c703ff4-3c47-4ea8-9f6c-3f8282ca72e4 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460983602,
+"old": 0,
+"new": 1,
+"label": "vfx 2b392dba-3059-4ae2-a215-0d0e85db2609 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461241363,
+"old": 0,
+"new": 1,
+"label": "vfx 2f834384-0690-4561-b157-ba727f444ba5 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471258120,
+"old": 0,
+"new": 1,
+"label": "vfx b88751c9-4ec4-470e-92ed-752eeafad418 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458189376,
+"old": 0,
+"new": 1,
+"label": "vfx 07dab710-622f-48a1-96f2-09d5394c64d2 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469492706,
+"old": 0,
+"new": 1,
+"label": "vfx a201bf36-f8e7-498a-8e41-a576ac99f449 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472783350,
+"old": 0,
+"new": 1,
+"label": "vfx cdd9e7f5-513a-4808-959b-8911d27b9adb p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462811548,
+"old": 0,
+"new": 1,
+"label": "vfx 4402d71f-208c-421e-93f3-8578c255c5d1 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 476281312,
+"old": 0,
+"new": 1,
+"label": "vfx fe153a2c-1c02-42e2-869e-edfa7173683b p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462848881,
+"old": 0,
+"new": 1,
+"label": "vfx 44ada7ec-795c-47c8-87a3-1be4809482d4 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467525694,
+"old": 0,
+"new": 1,
+"label": "vfx 8685a499-da08-4290-8f1c-686e34c85699 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467530218,
+"old": 0,
+"new": 1,
+"label": "vfx 8685a499-da08-4290-8f1c-686e34c85699 p21 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465355776,
+"old": 0,
+"new": 1,
+"label": "vfx 66150bf1-af0f-43cd-b92e-c6a2986e8a82 p11 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471532888,
+"old": 0,
+"new": 1,
+"label": "vfx bdaf927d-b44a-48c2-9f63-96a7867ef8bb p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 476382610,
+"old": 0,
+"new": 1,
+"label": "vfx ff4dc2b5-829b-46b1-8879-4fdc05661bd5 p15 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463077786,
+"old": 0,
+"new": 1,
+"label": "vfx 48107bfc-73bb-45da-8c0d-d3065eb11443 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464884430,
+"old": 0,
+"new": 1,
+"label": "vfx 600d1357-a74e-4ad9-8f22-2f1ecab8e7ec p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466155618,
+"old": 0,
+"new": 1,
+"label": "vfx 733d5466-fa54-43fa-b925-e07a20fedcc3 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463953632,
+"old": 0,
+"new": 1,
+"label": "vfx 52c10cb7-de4b-451d-8aad-f80ebf377eb6 p14 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461962654,
+"old": 0,
+"new": 1,
+"label": "vfx 39b45c3c-2067-45e0-a82a-12fd4d910037 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469659898,
+"old": 0,
+"new": 1,
+"label": "vfx a3d8af6b-d34f-4b1a-b633-a0a02a3b3c30 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469666186,
+"old": 0,
+"new": 1,
+"label": "vfx a3d8af6b-d34f-4b1a-b633-a0a02a3b3c30 p17 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472989323,
+"old": 0,
+"new": 1,
+"label": "vfx d036e8f0-477c-4a38-91dc-7bec1a2a4ce5 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470132318,
+"old": 0,
+"new": 1,
+"label": "vfx a9d372a6-5f2b-4bc1-baec-6f79c8e3032b p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474179934,
+"old": 0,
+"new": 1,
+"label": "vfx e03a4440-0b62-4e54-859f-e451dd74656e p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464726931,
+"old": 0,
+"new": 1,
+"label": "vfx 5d09a1e4-3aaa-4dc9-a69d-51667fcefe3d p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472375960,
+"old": 0,
+"new": 1,
+"label": "vfx c8db1a5a-8f80-4481-8b40-46983c2f1a49 p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464633064,
+"old": 0,
+"new": 1,
+"label": "vfx 5bc31115-d3ac-4577-9337-b075b9834a13 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459466468,
+"old": 0,
+"new": 1,
+"label": "vfx 1992d06d-47bb-47b9-ad0e-b353fec7e6cd p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474120714,
+"old": 0,
+"new": 1,
+"label": "vfx df4962ec-1eaa-4c23-a8c1-0e5ac994f275 p15 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474121510,
+"old": 0,
+"new": 1,
+"label": "vfx df4962ec-1eaa-4c23-a8c1-0e5ac994f275 p18 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466529262,
+"old": 0,
+"new": 1,
+"label": "vfx 79d21edf-eba9-445d-85e1-1aae86df4b48 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462588702,
+"old": 0,
+"new": 1,
+"label": "vfx 415a7d78-7780-4cf1-968a-d45d8ac5fb07 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457513184,
+"old": 0,
+"new": 1,
+"label": "vfx 018e0b3e-5ffe-4074-8c39-caae1b0b8391 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457961066,
+"old": 0,
+"new": 1,
+"label": "vfx 05cb2c93-b7fe-4f82-bfac-2196e99b8307 p26 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466192772,
+"old": 0,
+"new": 1,
+"label": "vfx 74430c0d-5ef4-461b-95b1-2f086c3f7e6a p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459926604,
+"old": 0,
+"new": 1,
+"label": "vfx 1e2437ff-bec8-44f8-b5c9-7d3507afd1de p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473785512,
+"old": 0,
+"new": 1,
+"label": "vfx db26dad9-27b5-44d7-b218-7b365a5ad932 p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457734963,
+"old": 0,
+"new": 1,
+"label": "vfx 0411cdb6-03ff-4bfa-a155-3bd9ba8f81d8 p24 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466284416,
+"old": 0,
+"new": 1,
+"label": "vfx 75477020-6193-46fb-9c25-7b77228690df p15 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 460265268,
+"old": 0,
+"new": 1,
+"label": "vfx 22174200-6ee0-4fac-91e1-8df63113798c p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470351754,
+"old": 0,
+"new": 1,
+"label": "vfx ac916471-eafd-4859-a689-772157720264 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 476350478,
+"old": 0,
+"new": 1,
+"label": "vfx feb4c600-208d-434d-a9bf-2ad431dc3243 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459009134,
+"old": 0,
+"new": 1,
+"label": "vfx 11c7201b-605f-45ff-ab62-e12ef66c7189 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465576683,
+"old": 0,
+"new": 1,
+"label": "vfx 6a63d02b-0e83-489d-9e4d-d489df26f8dd p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465603326,
+"old": 0,
+"new": 1,
+"label": "vfx 6ab6b970-6dd9-4c4e-80ff-d83d238ddd32 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463121942,
+"old": 0,
+"new": 1,
+"label": "vfx 49023e7d-9ab8-4d0d-ba38-4d1abfaf84ca p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472703618,
+"old": 0,
+"new": 1,
+"label": "vfx cd2f359b-2ba5-48cb-9fb9-86a266669098 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461884160,
+"old": 0,
+"new": 1,
+"label": "vfx 38280102-8c83-4498-8643-5e59dace1a16 p12 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467878084,
+"old": 0,
+"new": 1,
+"label": "vfx 8a517b7c-1291-4f4b-9185-8a4d741dd9e0 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467881676,
+"old": 0,
+"new": 1,
+"label": "vfx 8a517b7c-1291-4f4b-9185-8a4d741dd9e0 p15 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467883508,
+"old": 0,
+"new": 1,
+"label": "vfx 8a517b7c-1291-4f4b-9185-8a4d741dd9e0 p22 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467883932,
+"old": 0,
+"new": 1,
+"label": "vfx 8a517b7c-1291-4f4b-9185-8a4d741dd9e0 p23 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474908869,
+"old": 0,
+"new": 1,
+"label": "vfx e9b3b943-30c6-423a-840a-42eef347054e p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473069183,
+"old": 0,
+"new": 1,
+"label": "vfx d2dcdbdd-5173-411d-8f5f-afcc77775add p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473534832,
+"old": 0,
+"new": 1,
+"label": "vfx d936aa6f-61da-427b-907e-f05e3d55fa7d p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465469587,
+"old": 0,
+"new": 1,
+"label": "vfx 691a23e3-00a3-4b18-a1e3-8e71e5586f4e p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471002372,
+"old": 0,
+"new": 1,
+"label": "vfx b5d62bf7-3c4c-4908-aa81-baec5804b791 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464263546,
+"old": 0,
+"new": 1,
+"label": "vfx 573856ca-db81-4a6f-98b8-f60bb16236f9 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458306560,
+"old": 0,
+"new": 1,
+"label": "vfx 08a67e26-17a7-4237-b167-17762c88dc04 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473239969,
+"old": 0,
+"new": 1,
+"label": "vfx d55cba5e-fd51-4095-9c74-685e64328322 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 468807711,
+"old": 0,
+"new": 1,
+"label": "vfx 98a83790-0917-4f3b-83be-02df3d6ae9b4 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470141792,
+"old": 0,
+"new": 1,
+"label": "vfx a9ee9068-49c4-40da-b3e7-c84d8a2abb7e p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458472702,
+"old": 0,
+"new": 1,
+"label": "vfx 0aa59ca9-e183-4dbc-b3b5-fb04d2494dab p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458669032,
+"old": 0,
+"new": 1,
+"label": "vfx 0d3a8219-cdd2-490f-ab55-dda444deb9d6 p10 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470900550,
+"old": 0,
+"new": 1,
+"label": "vfx b374c8fd-70eb-461c-85c1-29e26bf8f1bf p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461069426,
+"old": 0,
+"new": 1,
+"label": "vfx 2d323aeb-c728-4bde-beea-214acdf089a4 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467059574,
+"old": 0,
+"new": 1,
+"label": "vfx 8140d5d7-7f84-4685-94eb-5e1f4c99065e p26 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467584168,
+"old": 0,
+"new": 1,
+"label": "vfx 86962dd8-fc0c-425a-a9d3-2495fd7029a4 p13 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467584588,
+"old": 0,
+"new": 1,
+"label": "vfx 86962dd8-fc0c-425a-a9d3-2495fd7029a4 p14 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461381134,
+"old": 0,
+"new": 1,
+"label": "vfx 31ed63ae-2cf0-45dc-92e8-be798f408a4f p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471442136,
+"old": 0,
+"new": 1,
+"label": "vfx bc8fbf5a-19ed-483a-baed-94bb72890379 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471781312,
+"old": 0,
+"new": 1,
+"label": "vfx c1b45869-1686-4dd3-9939-190c41d14968 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463720998,
+"old": 0,
+"new": 1,
+"label": "vfx 5063d426-8e3d-43c1-8dbe-adf80152c1b9 p13 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473016446,
+"old": 0,
+"new": 1,
+"label": "vfx d1c408e4-373c-4161-8035-06429e3c9b5b p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 468297662,
+"old": 0,
+"new": 1,
+"label": "vfx 9021c5c6-c8a9-4b88-bf92-6801b656e03f p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471760485,
+"old": 0,
+"new": 1,
+"label": "vfx c1a66df8-6a56-45f5-b1cd-5b94ce6c31e4 p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472523208,
+"old": 0,
+"new": 1,
+"label": "vfx cacc017b-0c6b-4ce3-9bf8-103835f6bff9 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462980636,
+"old": 0,
+"new": 1,
+"label": "vfx 46ad7319-144d-43b0-a9ee-842d1c2355c9 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470974870,
+"old": 0,
+"new": 1,
+"label": "vfx b484eab4-2fd7-4628-8ab5-793923c2928a p6 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463336792,
+"old": 0,
+"new": 1,
+"label": "vfx 4b62cdc6-f04e-4dba-8455-c3e82962f38f p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459836396,
+"old": 0,
+"new": 1,
+"label": "vfx 1caf4fb4-1f31-40f9-b036-f5f0de49eaa6 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 468929956,
+"old": 0,
+"new": 1,
+"label": "vfx 9abc6cbe-10f0-4b70-8957-952156c330e7 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470867218,
+"old": 0,
+"new": 1,
+"label": "vfx b32532c6-49c0-43f3-8622-3d994723087d p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457599490,
+"old": 0,
+"new": 1,
+"label": "vfx 02decde6-ab83-4681-898f-df74d16a0801 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464634531,
+"old": 0,
+"new": 1,
+"label": "vfx 5bc940fc-8e75-4ecd-a671-aaf20bb1c6e6 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472742152,
+"old": 0,
+"new": 1,
+"label": "vfx cd77e4e8-51d5-4f2f-a642-a871f1babd70 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465222180,
+"old": 0,
+"new": 1,
+"label": "vfx 642e7e5d-7116-4714-a102-7ac1273c6d8e p13 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467279010,
+"old": 0,
+"new": 1,
+"label": "vfx 8455ae78-f6bb-45e6-822c-b521fba1dd83 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467452503,
+"old": 0,
+"new": 1,
+"label": "vfx 861b8709-a9fb-4a7d-b91b-9181b3b721a7 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472121156,
+"old": 0,
+"new": 1,
+"label": "vfx c533db66-5769-4862-9fe1-67062ad42bb2 p21 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459090220,
+"old": 0,
+"new": 1,
+"label": "vfx 129ddc47-de2b-485d-88fb-79a861718878 p44 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475085160,
+"old": 0,
+"new": 1,
+"label": "vfx ed0b8ab9-194e-4cfe-8b1b-f8f8c2196fe0 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463173106,
+"old": 0,
+"new": 1,
+"label": "vfx 49a64147-e532-4ef1-bf57-fe715a064035 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466828392,
+"old": 0,
+"new": 1,
+"label": "vfx 7d1b64f1-dd21-4e9b-a237-53878fc6ef8d p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467715868,
+"old": 0,
+"new": 1,
+"label": "vfx 87f18114-6e01-4765-8046-7463c303cfce p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473151774,
+"old": 0,
+"new": 1,
+"label": "vfx d46fe8fb-7fbe-4518-a93c-0bb2c0c78cb3 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466808110,
+"old": 0,
+"new": 1,
+"label": "vfx 7ccabe7a-db58-4c1e-be26-099bcc925ed3 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459624102,
+"old": 0,
+"new": 1,
+"label": "vfx 1a9b5042-f676-4572-8cec-0723dc50db53 p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466571286,
+"old": 0,
+"new": 1,
+"label": "vfx 7a459f26-e7c9-46ca-80a1-8a395449f763 p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 470253752,
+"old": 0,
+"new": 1,
+"label": "vfx ab271a5d-2880-41ee-81eb-c7eb5af8d74c p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463203664,
+"old": 0,
+"new": 1,
+"label": "vfx 49bc2d5a-3032-42cc-9c31-23d94b9cf682 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 476009908,
+"old": 0,
+"new": 1,
+"label": "vfx fa87c823-bed2-4296-b589-da07f308d26e p13 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472031782,
+"old": 0,
+"new": 1,
+"label": "vfx c4ae1ae7-fb86-49c4-b409-2c097e49640b p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469744331,
+"old": 0,
+"new": 1,
+"label": "vfx a495eccf-77de-45a7-8e5e-77ee4a839ef4 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 473082581,
+"old": 0,
+"new": 1,
+"label": "vfx d34a40ac-8205-4577-aec4-eb892b5ac383 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469987260,
+"old": 0,
+"new": 1,
+"label": "vfx a808e4b8-627b-4422-b93f-52ef3b390c7c p10 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 461231472,
+"old": 0,
+"new": 1,
+"label": "vfx 2f64c886-e6dc-4e55-8122-168342774119 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463325182,
+"old": 0,
+"new": 1,
+"label": "vfx 4b5bf5dd-4a50-4066-99d0-efcb0b601068 p15 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469727450,
+"old": 0,
+"new": 1,
+"label": "vfx a4898fc5-e1a3-475c-b7dc-688e35401f07 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469732238,
+"old": 0,
+"new": 1,
+"label": "vfx a4898fc5-e1a3-475c-b7dc-688e35401f07 p19 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467007956,
+"old": 0,
+"new": 1,
+"label": "vfx 80e56ca2-2907-4ee3-b837-cddd6346813a p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469129838,
+"old": 0,
+"new": 1,
+"label": "vfx 9dae5f70-445d-4ab5-9956-117991d5a5a1 p30 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463980456,
+"old": 0,
+"new": 1,
+"label": "vfx 53346e91-2301-40b7-8697-f13125ed5f8e p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469383190,
+"old": 0,
+"new": 1,
+"label": "vfx a0e82b9f-01b2-468f-9076-b86a8932de20 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475859152,
+"old": 0,
+"new": 1,
+"label": "vfx f88fcd2f-1b6e-4ab6-a1af-119380ed5e9e p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475861448,
+"old": 0,
+"new": 1,
+"label": "vfx f88fcd2f-1b6e-4ab6-a1af-119380ed5e9e p11 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469858362,
+"old": 0,
+"new": 1,
+"label": "vfx a62d5548-4240-4765-a1bd-0d00698a4530 p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471604400,
+"old": 0,
+"new": 1,
+"label": "vfx beb3b2ef-a1da-438e-89c4-25f3185f16f4 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475319344,
+"old": 0,
+"new": 1,
+"label": "vfx f0c20a45-24bd-40ab-af86-724fd0e54b2b p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459890532,
+"old": 0,
+"new": 1,
+"label": "vfx 1d38099e-4c6d-4d83-80e8-c77db3f53a5c p7 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466064351,
+"old": 0,
+"new": 1,
+"label": "vfx 712ad56c-7f71-4866-ab1a-14a90fba6827 p17 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 462936498,
+"old": 0,
+"new": 1,
+"label": "vfx 45d4273b-0e58-4ac6-a0e1-5f8d29d51904 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466346592,
+"old": 0,
+"new": 1,
+"label": "vfx 76a123ed-3aa1-43f8-ab2d-3203e3d7d47c p4 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 465782484,
+"old": 0,
+"new": 1,
+"label": "vfx 6d00612d-ca33-4c18-a7ab-977a1065624a p18 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466461458,
+"old": 0,
+"new": 1,
+"label": "vfx 79240e4a-7883-44c1-b8be-366e45bfd619 p8 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472147430,
+"old": 0,
+"new": 1,
+"label": "vfx c55e774f-b677-4bc8-8096-f31b1bf1ac7f p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467659126,
+"old": 0,
+"new": 1,
+"label": "vfx 8784e3d5-8f57-4912-80ac-0780cde6c275 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 472443626,
+"old": 0,
+"new": 1,
+"label": "vfx ca0a6254-04db-4695-a849-baccc42877b9 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466244921,
+"old": 0,
+"new": 1,
+"label": "vfx 7511f027-b730-48b6-a3ee-d9db365e44a4 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469164620,
+"old": 0,
+"new": 1,
+"label": "vfx 9e0b5def-4c6d-45f0-9f9b-96f01a2fd5df p20 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459163915,
+"old": 0,
+"new": 1,
+"label": "vfx 14cd4694-6da9-4556-9ab5-25a226edda05 p10 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 474966016,
+"old": 0,
+"new": 1,
+"label": "vfx ea85bbda-65f2-40eb-ba3a-4c6b2fbaa389 p9 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471091374,
+"old": 0,
+"new": 1,
+"label": "vfx b67a7322-769c-4b7b-8d87-f74ff393379f p11 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463669858,
+"old": 0,
+"new": 1,
+"label": "vfx 4fc1b064-4a17-49dc-aea6-2644dfee59fe p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464564950,
+"old": 0,
+"new": 1,
+"label": "vfx 5ade4a2d-7074-4a8a-a13b-cdc490b5eff1 p10 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463392762,
+"old": 0,
+"new": 1,
+"label": "vfx 4bdb2e97-6cde-4844-9ad5-d649265ef6d0 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475397230,
+"old": 0,
+"new": 1,
+"label": "vfx f1e95f07-8e76-48b4-9d5c-a380da64b2ff p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 457494182,
+"old": 0,
+"new": 1,
+"label": "vfx 0153b1d7-7b64-4ef4-8039-d96e7e5e024c p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 476069322,
+"old": 0,
+"new": 1,
+"label": "vfx fb11b536-d246-4f2e-a544-d9776ea5b271 p5 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 466633098,
+"old": 0,
+"new": 1,
+"label": "vfx 7abf5d27-d93d-429a-b5a9-a158d6a1fee9 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 469497152,
+"old": 0,
+"new": 1,
+"label": "vfx a21372a7-29d7-4836-ac7a-aa05b3666126 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 464409864,
+"old": 0,
+"new": 1,
+"label": "vfx 59fa4a37-4d12-48d2-852c-ecc289e4223d p1 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 467819494,
+"old": 0,
+"new": 1,
+"label": "vfx 89245648-32c2-42d7-8dea-ebb25ac42e1c p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 471136355,
+"old": 0,
+"new": 1,
+"label": "vfx b76b9909-628f-46a8-b125-68c81ae7ac62 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459654194,
+"old": 0,
+"new": 1,
+"label": "vfx 1abde882-86df-48c4-bb3d-49600aa8523c p11 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 475846183,
+"old": 0,
+"new": 1,
+"label": "vfx f8679d52-c624-4200-9433-ed3c4a45f243 p2 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458572294,
+"old": 0,
+"new": 1,
+"label": "vfx 0bd568d5-b2ce-46a4-816a-5a6d0c4bddab p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 463466352,
+"old": 0,
+"new": 1,
+"label": "vfx 4cd0a9c8-49dd-40e4-9256-7c84ecb6bee4 p0 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459802908,
+"old": 0,
+"new": 1,
+"label": "vfx 1bf35f83-efe9-4e9d-8a9f-91e59c0373b6 p3 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 459806948,
+"old": 0,
+"new": 1,
+"label": "vfx 1bf35f83-efe9-4e9d-8a9f-91e59c0373b6 p12 static castShadows"
+},
+{
+"kind": "static_eval_param",
+"stream_off": 458830996,
+"old": 0,
+"new": 1,
+"label": "vfx 0f1c1bf9-f990-4ebe-b024-609349afd50f p2 static castShadows"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 461837184,
+"old": 0,
+"new": 1,
+"label": "vfx 371c1897-2cfd-4f49-b943-e11a34abdca0 default param slot 7"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 457397484,
+"old": 0,
+"new": 1,
+"label": "vfx 00d2cbe5-7395-41dc-baf6-99d054ff24d2 default param slot 2"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 473761404,
+"old": 0,
+"new": 1,
+"label": "vfx dac45904-d15a-4d08-9a5b-7dac4b385557 default param slot 6"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 470786592,
+"old": 0,
+"new": 1,
+"label": "vfx b1a76a6b-cae1-4d42-8390-5998e04c6eb3 default param slot 3"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 463094912,
+"old": 0,
+"new": 1,
+"label": "vfx 48ab9eee-4e16-4414-8473-13ee1f61fdc4 default param slot 7"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 469988696,
+"old": 0,
+"new": 1,
+"label": "vfx a8158ba2-0dbc-440e-aef1-1ccdf625a446 default param slot 1"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 460180480,
+"old": 0,
+"new": 1,
+"label": "vfx 2171465f-60fc-433d-bda2-8d046dc5dcc7 default param slot 7"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 474019724,
+"old": 0,
+"new": 1,
+"label": "vfx de448f21-a801-4b57-94ae-a0baeb52fc29 default param slot 10"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 475596004,
+"old": 0,
+"new": 1,
+"label": "vfx f569cd3d-e052-4560-9bb5-702fe4f71f79 default param slot 0"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 463429400,
+"old": 0,
+"new": 1,
+"label": "vfx 4c2a55f0-69b1-4285-bf63-4b12a087e12c default param slot 5"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 458586180,
+"old": 0,
+"new": 1,
+"label": "vfx 0c276ac9-8195-46db-9029-dbc04183d44d default param slot 0"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 459349588,
+"old": 0,
+"new": 1,
+"label": "vfx 17a60513-ac26-46b5-925b-8f547a94c4db default param slot 8"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 460360260,
+"old": 0,
+"new": 1,
+"label": "vfx 232f2e36-4a0b-452a-b588-09d8de79e33a default param slot 12"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 471020740,
+"old": 0,
+"new": 1,
+"label": "vfx b625cc70-9d28-4649-8300-91d68dd8d620 default param slot 8"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 464791144,
+"old": 0,
+"new": 1,
+"label": "vfx 5df429d5-5108-4f42-8761-5b82e7830d1f default param slot 9"
+},
+{
+"kind": "vfx_default_param",
+"stream_off": 469672356,
+"old": 0,
+"new": 1,
+"label": "vfx a404b57c-888e-46ad-9147-9e02235fc0f3 default param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 115170012,
+"old": 0,
+"new": 1,
+"label": "template Orb_Mana_WeaponGem (ee7480af-e304-41c7-b7c0-469a23a5072b) param slot 5"
+},
+{
+"kind": "template_override",
+"stream_off": 89916912,
+"old": 0,
+"new": 1,
+"label": "template Prop_Ancient_Astronomy_Illumination_01_Ceiling_On_Craftable (5b374c9b-f6cd-4606-853a-932eede7dff4) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 89264316,
+"old": 0,
+"new": 1,
+"label": "template Scatter_Loot_Wetland_Below_Plant_01_e_lamp (57ce56a6-75ba-4d76-9eec-3bcecca70a93) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 76273392,
+"old": 0,
+"new": 1,
+"label": "template Prop_Ancients_Cultivation_GrowLamp_01_On (0bdba6a5-28ac-4b88-9c88-2a3e7a078e28) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 85434660,
+"old": 0,
+"new": 1,
+"label": "template Prop_Door_Huge_Ancient_range (40088de5-2db5-494d-8eff-1b430fbdf210) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 85527800,
+"old": 0,
+"new": 1,
+"label": "template Hitable_Enemy_small_Mushroom_WeakSpot03 (40b8c4f5-92d4-4b66-9479-8113ef9a8722) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 83860172,
+"old": 0,
+"new": 1,
+"label": "template VFX_SubEntity_Prop_Well_Core_Object_SkillPointPlant (37338ce7-02c7-49c8-9a37-0bb008707f65) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 99995304,
+"old": 0,
+"new": 1,
+"label": "template Scatter_Loot_Steppes_Below_LightPlant_09_c (94886b36-d2df-4f88-9043-8a5ee95d9354) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 112634472,
+"old": 0,
+"new": 1,
+"label": "template Base_VFX_Light (decde8fb-896a-4b21-8cce-8a2559c7ec44) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 105456784,
+"old": 0,
+"new": 1,
+"label": "template cinematic_vfx_light_elixir (b5a97336-3c4a-4992-a27c-ce39fecb1ce0) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 109951964,
+"old": 0,
+"new": 1,
+"label": "template Orb_Mana (cecaf48c-d530-4e01-9270-be2ec21d3daf) param slot 5"
+},
+{
+"kind": "template_override",
+"stream_off": 109208412,
+"old": 0,
+"new": 1,
+"label": "template Visuals_Daggers_T5_DPS_Epic_R (cadeacd9-9f46-4caf-8959-cf6467dccf8d) param slot 7"
+},
+{
+"kind": "template_override",
+"stream_off": 84248692,
+"old": 0,
+"new": 1,
+"label": "template Orb_Stamina_WeaponGem (394f9208-4a19-44f3-bd3f-d7711cfb0556) param slot 7"
+},
+{
+"kind": "template_override",
+"stream_off": 101955944,
+"old": 0,
+"new": 1,
+"label": "template Orb_Health (a18f7b39-6051-4164-bbfc-5041988f680e) param slot 6"
+},
+{
+"kind": "template_override",
+"stream_off": 77033240,
+"old": 0,
+"new": 1,
+"label": "template VFX_Light_vfx_test_level_cave (10f2f400-a6e2-4359-a812-4e6f6e39e2ce) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 101733416,
+"old": 0,
+"new": 1,
+"label": "template Prop_Ancients_MuseumLamp_On (a0246289-102e-4ea7-86c3-7abe1e15f3c7) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 106620600,
+"old": 0,
+"new": 1,
+"label": "template Prop_Loot_Anim_Ancientland_Below_LightLavaPlant_01_a (bc884163-884b-4826-95f3-09eb86eadce4) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 115403148,
+"old": 0,
+"new": 1,
+"label": "template Prop_Glimmer_Gentian_Light_01_Small_Range (effa51fc-6f39-4e3e-beef-fc18a57a8f7f) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 74413868,
+"old": 0,
+"new": 1,
+"label": "template Orb_Armoring_WeaponGem (0082ca85-8087-4002-96b8-d33f9093cd7e) param slot 0"
+},
+{
+"kind": "template_override",
+"stream_off": 98407072,
+"old": 0,
+"new": 1,
+"label": "template Prop_Glimmer_Gentian_Light_01_Small_On (8aefec9a-cce6-41d0-a351-bdbc7e6ce853) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 78419552,
+"old": 0,
+"new": 1,
+"label": "template Orb_Health_WeaponGem (1998b23a-7ce8-476d-9ac1-5450f05a3f25) param slot 6"
+},
+{
+"kind": "template_override",
+"stream_off": 83690732,
+"old": 0,
+"new": 1,
+"label": "template Enemy_Scavenger_Hound_Night_Patrol_Leader (36054682-8594-4f96-9576-cb8d7733d58a) param slot 1"
+},
+{
+"kind": "template_override",
+"stream_off": 93824704,
+"old": 0,
+"new": 1,
+"label": "template Base_Hitable_Enemy_Mushroom_WeakSpots_Deepforest (7186f938-0d74-43eb-898d-d52c5763b3d4) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 77304040,
+"old": 0,
+"new": 1,
+"label": "template Prop_Door_Ancient_night_unlocked (13073a65-b9f5-46af-a4ff-9fc888852308) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 78478324,
+"old": 0,
+"new": 1,
+"label": "template Scatter_Loot_Desert_Below_LightPlant_01_d (1a2afb49-f0e6-41f9-b5c0-924bda2432d4) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 114432720,
+"old": 0,
+"new": 1,
+"label": "template Base_Prop_Loot_Anim_Hitable (ea635895-ead3-4208-aa4c-591b2d3ee0ef) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 88236016,
+"old": 0,
+"new": 1,
+"label": "template Prop_Door_Ancient_night_unlocked_PLAYER_CRAFTED (518f93bb-caf8-44fb-9996-0b9933b411d9) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 110466644,
+"old": 0,
+"new": 1,
+"label": "template VFX_SubEntity_Prop_Door_Ancient_Light (d234aec3-5dcc-4514-99aa-5f0e086dd648) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 85191932,
+"old": 0,
+"new": 1,
+"label": "template Orb_Stamina (3f5b7866-c436-4bd8-8da0-00deb42617f5) param slot 7"
+},
+{
+"kind": "template_override",
+"stream_off": 110414848,
+"old": 0,
+"new": 1,
+"label": "template VFX_SubEntity_Prop_Lantern_Light (d1709929-0b08-4687-b5ba-4bdbbb9cf272) param slot 3"
+},
+{
+"kind": "template_override",
+"stream_off": 74938328,
+"old": 0,
+"new": 1,
+"label": "template Prop_Loot_Anim_Ancientland_Below_LightLavaPlant_01_b (0367f476-4314-444c-b186-d5a70b4af2f3) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 94068796,
+"old": 0,
+"new": 1,
+"label": "template Visuals_Daggers_T5_DPS_Epic_L (72cfcc34-6f3d-41a3-8cc6-964312298019) param slot 7"
+},
+{
+"kind": "template_override",
+"stream_off": 76082216,
+"old": 0,
+"new": 1,
+"label": "template Scatter_Loot_Steppes_Below_LightPlant_09_b (0a97ee69-8b44-4c7c-bc4e-97a862a2d0c7) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 117619424,
+"old": 0,
+"new": 1,
+"label": "template Scatter_Loot_Steppes_Below_LightPlant_09_d (fcbda24c-ad29-4b22-9e5f-90f991b4fc9b) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 83979448,
+"old": 0,
+"new": 1,
+"label": "template Hitable_Enemy_small_Mushroom_WeakSpot01 (3842c15c-ba1b-4118-b30c-e1374553cdb3) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 112842120,
+"old": 0,
+"new": 1,
+"label": "template Prop_Ancients_Cultivation_Rack_large_On (e03539bb-816f-49be-a531-3d4abd1fde07) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 75134296,
+"old": 0,
+"new": 1,
+"label": "template Hitable_Enemy_small_Mushroom_WeakSpot02 (04537653-2b4e-4bde-a7d8-8b0880cc26a3) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 98365624,
+"old": 0,
+"new": 1,
+"label": "template Prop_Dummy_Light_In_Fog_Test (8aa564d4-ea89-40d7-8da9-3bcdd7ce172f) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 98995408,
+"old": 0,
+"new": 1,
+"label": "template Prop_Ancient_Astronomy_Illumination_03_Wall_On_Craftable (8ed07b0a-5fef-4dce-a182-785271f7dcb3) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 81785228,
+"old": 0,
+"new": 1,
+"label": "template VFX_SubEntity_Player_LootCorpse_Tombstone_Flame (2c2c4511-0173-40ee-85a3-2f9383d14b72) param slot 12"
+},
+{
+"kind": "template_override",
+"stream_off": 107023792,
+"old": 0,
+"new": 1,
+"label": "template Prop_Ancient_Astronomy_Illumination_02_Ground_On_Craftable (be552782-502e-4a47-b5aa-a951f7c0d7c2) param slot 8"
+},
+{
+"kind": "template_override",
+"stream_off": 111007184,
+"old": 0,
+"new": 1,
+"label": "template Orb_FogResistance_WeaponGem (d63e4932-693c-4d69-b762-19278e5313f9) param slot 8"
+}
+]

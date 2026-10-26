@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+backup/
+builds/
+patched/
+patched_lights/
+patched_shader/
+safety/
+publish/
+state.json
+state.json.tmp
