@@ -12,14 +12,14 @@ Made for game patch 1.0.0.3 (build 1273043). On other builds the edits are worke
 
 - **Physics debris.** Rubble from mining, destruction and explosions stays where it falls. You can also push it around.
 - **Reactive particles:**
-  - smoke, dust, embers etc moves you touch it;
+  - smoke, dust, embers etc. move when you touch them;
   - smoke collides with walls and ceilings and slides along them;
-  - optional: add volumetric smoke to every single smoke particle to the game.
+  - optional: add volumetric smoke to every single smoke particle in the game.
 - **Longer-lived effects.** Smoke lasts from 1x to 18× longer, and dust and sparks up to 8×. Effects draw up to 4× farther.
 - **Fog and atmosphere:**
   - fog density, rain and snow haze, and fog glow at night and by day, all tunable.
   - thicker or thinner Shroud.
-- **Bigger waves.** Swimming, moving and swimming through water make taller, longer waves. Waves last longer and travel further.
+- **Bigger waves.** Swimming and moving through water make taller, longer waves. Waves last longer and travel further.
 - **All lights cast shadows.** 444 more light sources cast shadows, among them spells, glowing plants and crafting stations.
 - **Global illumination beyond Ultra.** Ultra+ and Ultra++ presets with up to 7.8× the ray budget, set while the game runs.
 - **In-game overlay.** Ctrl+Shift+F10 shows the settings window over the game, in windowed or borderless mode.
@@ -43,10 +43,9 @@ Made for game patch 1.0.0.3 (build 1273043). On other builds the edits are worke
    ```
 
    It checks the game files before every launch and rebuilds the mods when needed.
-   Then remove again when the mod is up and running again.
+   Then remove it again once the mod is up and running.
 
-   
-4: Play.
+4. Play.
 
 
 
