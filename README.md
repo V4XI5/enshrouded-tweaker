@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Enshrouded: graphics and physics tweaked by VAXIS" width="800">
+</p>
+
 # Extended Graphics and Physics Tweaker for Enshrouded
 
 A set of tools that push Enshrouded past its own Ultra settings and make its world more physical. Every change can be switched back off.
