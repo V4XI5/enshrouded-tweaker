@@ -8,6 +8,16 @@ A set of tools that push Enshrouded past its own Ultra settings and make its wor
 
 Made for game patch 1.0.0.3 (build 1273043). On other builds the edits are worked out again from the installed game data. Anything that no longer matches is skipped and named in the log.
 
+## Showcase
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=UyZCMPyfAy4">
+    <img src="https://img.youtube.com/vi/UyZCMPyfAy4/maxresdefault.jpg" alt="Enshrouded - Graphics and Physics Tweaker, showcase video on YouTube" width="800">
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=UyZCMPyfAy4">▶ Watch the showcase on YouTube</a>
+</p>
+
 ## Features
 
 - **Physics debris.** Rubble from mining, destruction and explosions stays where it falls. You can also push it around.
